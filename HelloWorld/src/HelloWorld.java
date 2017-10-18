@@ -9,6 +9,7 @@ public class HelloWorld {
 		System.out.println("Hello hotfix-YYYYY");
 		System.out.println("Hello local-BBBBB");
 		System.out.println("Hello remote-AAAAA");
+		System.out.println("Hello remote2-BBBBB");
 
 	}
 
