@@ -13,6 +13,7 @@ public class HelloWorld {
 		System.out.println("Hello remote3-CCCCCC");
 		System.out.println("Hello local-DDDDDDD");
 		System.out.println("Hello remote4-DDDDDD");
+		/* Pull demo */		
 	}
 
 }
